@@ -1,0 +1,17 @@
+[X] add lattice for main clock
+[X] add play pause
+[ ] add live recording
+
+[X] add multiple track instances
+[ ] copy track if no step is selected
+
+[ ] ui
+[ ] edit default step if no step is selected
+
+[X] add sound engines cf. zxcvbn / https://llllllll.co/t/zxcvbn/59289
+[ ] params
+
+[ ] add track speed
+
+[ ] grid only draw changes / dubble buffer
+
